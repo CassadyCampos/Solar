@@ -9,8 +9,7 @@
 }
  
 .btn-dark {
-  
-    text-shadow: 1px 1px black;
+   text-shadow: 1px 1px black;
 }
 
 .display-4 {
@@ -22,9 +21,6 @@
 p {
     color: #D4D0D0;
     text-shadow: 1px 1px gray;
-    margin-right: 35%;
-    height: 640;
-    width: 600px
 }
 
 hr {
@@ -34,17 +30,17 @@ hr {
     
 }
 
-  body { 
+body { 
     background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/C2SkUEF/mg0007-night-sky-with-twinkling-stars-animated-background_ekioupkse__F0000.png);
     background-size: cover;
     background-position: cover;
 }  
 
+.col-10 p {
+    font-size: 1.4rem;
+    line-height: 1.5;
+}
 
-
-
-#planetImg {
-    width: 400px;
-    height: 400px;
-
+.col-lg-6 {
+    padding-left: 60px;
 }
